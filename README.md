@@ -16,4 +16,4 @@ Currently improving my JavaScript skills and learning more about React framework
 
 ![Twitter Badge](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-16x16.png?raw=true) [Twitter](https://twitter.com/wall_martins1)<br><br>
 
-Ask me about anything, i'm happy to help.<br> And, if you want some materials to study, follow the best community: [He4rtDevs](https://heartdevs.com/) on github and social medias.
+💬 Ask me about anything, i'm happy to help.<br> And, if you want some materials to study, follow the best community: [He4rtDevs](https://heartdevs.com/) on github and social medias.
