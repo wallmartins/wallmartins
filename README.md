@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello, I'm Wall! 🖖🏼
 
-<!--
-**wallmartins/wallmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Wallace Martins, front-end web developer. I'm based in Rio de Janeiro, Brazil.
 
-Here are some ideas to get you started:
+Since 2019, i change my professional area, abandoned my two gratuations and decided to dedicate to programing.<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What i'm focus on 💁 💻
+
+Currently improving my JavaScript skills and learning more about React framework.<br><br>
+
+### Find me elsewhere
+
+![Linkedin Badge](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-16x16.png?raw=true) [Linkedin](https://www.linkedin.com/in/wallmartins/)
+
+![Twitter Badge](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-16x16.png?raw=true) [Twitter](https://twitter.com/wall_martins1)<br><br>
+
+Ask me about anything, i'm happy to help. And, if you want some materials to study, follow the best community: [He4rtDevs] (https://heartdevs.com/) on github and social medias.
