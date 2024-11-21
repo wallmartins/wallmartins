@@ -10,7 +10,7 @@ Since 2019, i change my professional area, abandoned my two gratuations and deci
 
 ### What i'm focus on 💁 💻
 
-Currently improving my Programming skills on front-end and back-end. My current focus is: Vue 3/Nuxt and React/Next on front-end. And start learning Python from back-enx.<br><br>
+Currently improving my Programming skills on front-end and back-end. My current focus is: Vue 3/Nuxt and React/Next on front-end. And start learning Python from back-end.<br><br>
 
 ### Find me elsewhere
 
