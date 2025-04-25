@@ -6,7 +6,7 @@ I'm a proud member of the best community: [He4rtDevs](https://heartdevs.com/)
 
 I'm based in Rio de Janeiro, Brazil.
 
-Since 2019, i change my professional area, abandoned my two gratuations and decided to dedicate to programing.<br><br>
+Since 2019, I change my professional area, abandoned my two gratuations and decided to dedicate to programing.<br><br>
 
 ### What i'm focus on 💁 💻
 
