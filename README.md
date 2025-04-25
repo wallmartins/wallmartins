@@ -1,6 +1,6 @@
 ### Hello, I'm Wall! 🖖🏼
 
-Hi, I'm Wallace Martins, Front-End Web Developer. 
+Hi, I'm Wallace Martins, Senior Software Engineer. 
 
 I'm a proud member of the best community: [He4rtDevs](https://heartdevs.com/) 
 
