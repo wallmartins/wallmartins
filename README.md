@@ -16,6 +16,4 @@ Currently improving my Programming skills on front-end and back-end. My current 
 
 ![Linkedin Badge](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-16x16.png?raw=true) [Linkedin](https://www.linkedin.com/in/wallmartins/)
 
-![Twitter Badge](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-16x16.png?raw=true) [Twitter](https://twitter.com/wall_martins1)<br><br>
-
 💬 Ask me about anything, i'm happy to help.
